@@ -1,2 +1,1 @@
-# ANGRY-BIRDS1
-EGGS
+# Box Class
